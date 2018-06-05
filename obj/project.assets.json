@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Hoang Thuy\\Desktop\\DemoGitHub\\Group-3\\Group-3.csproj",
+      "projectUniqueName": "c:\\Users\\Hoang Thuy\\Desktop\\Group-3\\Group-3.csproj",
       "projectName": "Group-3",
-      "projectPath": "c:\\Users\\Hoang Thuy\\Desktop\\DemoGitHub\\Group-3\\Group-3.csproj",
+      "projectPath": "c:\\Users\\Hoang Thuy\\Desktop\\Group-3\\Group-3.csproj",
       "packagesPath": "C:\\Users\\Hoang Thuy\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Hoang Thuy\\Desktop\\DemoGitHub\\Group-3\\obj\\",
+      "outputPath": "c:\\Users\\Hoang Thuy\\Desktop\\Group-3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
