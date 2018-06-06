@@ -10,6 +10,7 @@ namespace Group_3
             Console.WriteLine("Hoang Thi Thuy"); 
             Console.WriteLine("Trinh Van Thuong");
             Console.WriteLine("Nguyen Quang Minh"); 
+            Console.WriteLine("We are the team <3");
         }
     }
 }
