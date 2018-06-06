@@ -6,9 +6,10 @@ namespace Group_3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Group!"); 
             Console.WriteLine("Hoang Thi Thuy"); 
             Console.WriteLine("Trinh Van Thuong");
-            
+            Console.WriteLine("Nguyen Quang Minh"); 
         }
     }
 }
